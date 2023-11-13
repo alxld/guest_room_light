@@ -10,7 +10,7 @@ from . import DOMAIN
 sys.path.append("custom_components/new_light")
 from new_light import NewLight
 
-lamps_entity = "light.guest_room_lamps_group"
+lamps_entity = "light.guest_room_group"
 switch_name = "Guest Room Switch"
 
 
